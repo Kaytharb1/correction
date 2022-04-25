@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.nav-link{
+    font-weight: 600;
+    color: #343a40 !important;
+    /* transition: all .5s linear; */
+}
+
+.nav-link:hover{
+    color: #007bff !important;
+    border-bottom: 2px solid #007bff;
+}
+
+.act{
+    border-bottom: 2px solid #007bff;
+}
+/* Styling the Home section */
+
+.bg-home{
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url('./BizLand/bizland03.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 65vh;
+}
+.head1{
+    font-size: 45px;
+    font-weight: 900;
+}
+.text1{
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+.btn-get{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+}
+.btn-video{
+    margin-left: 10px;
+    font-weight: 600;
+} 
+.btn-video:hover{
+    color: #007bff !important;
+}
+.btn-video i{
+    font-size: 25px;
+    line-height: 25px;
+}
+
+/*  */
+.bg-test{
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url('./BizLand/bizland11.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.pix{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 8px solid rgba(143, 139, 139, 0.6);
+    margin-bottom: 15px;
+}

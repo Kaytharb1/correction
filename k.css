@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.shadow{
+    border-radius: 5px;
+}
+.h2{
+    font-size: 25px;
+    font-size: 30px;
+}
+.search{
+    margin-left:130px;
+}
+
+.line3{
+    border-left: 3px solid blue;
+    border-radius: 4px;
+}
+.line2{
+  
+    margin-left: 5px;
+}
