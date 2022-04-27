@@ -558,3 +558,8 @@
     height: 35px;
 }
 /* ------testimonial  close-------*/
+/* @media(max-width:576px){
+    .media-section2{
+        text-align: justify !important;
+    }
+} */
