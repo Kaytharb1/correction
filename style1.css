@@ -32,6 +32,11 @@
     font-family: "Poppins", sans-serif;
     color: #222222 !important;
 }
+.bg-img{
+    background-image: url(./images/background/testimonials-bg.jpg);
+    height: 60vh;
+
+}
 .text-blue{
     color: #106eea;
 }
